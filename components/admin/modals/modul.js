@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react';
 
 const modul = () => {
   return (
@@ -16,12 +16,12 @@ const modul = () => {
           />
         </div>
         <div className="flex justify-end">
-          <button class="rounded-none border-2 p-1 px-6 m-5 mx-12 bg-[#8FECFF] font-bold">
+          <button className="rounded-none border-2 p-1 px-6 m-5 mx-12 bg-[#8FECFF] font-bold">
             Update
           </button>
         </div>
         <div className="flex h-64 justify-end items-end">
-          <button class="rounded-none border-2 border-red-700 px-6 m-5 mx-12 text-red-800 font-bold">
+          <button className="rounded-none border-2 border-red-700 px-6 m-5 mx-12 text-red-800 font-bold">
             DELETE
           </button>
         </div>
