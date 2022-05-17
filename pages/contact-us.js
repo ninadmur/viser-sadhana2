@@ -24,7 +24,7 @@ const ContactUs = () => {
             )}
           </div>
         </AnimatePresence>
-        <img
+        <Image
           className="flex-1"
           height="50px"
           width="30px"

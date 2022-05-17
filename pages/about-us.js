@@ -25,8 +25,8 @@ function About() {
             </p>
           </div>
           <div className="relative">
-            <img src="/images/aboutfolder/about_img-2-1-1.jpeg" alt="" />
-            <img
+            <Image src="/images/aboutfolder/about_img-2-1-1.jpeg" alt="" />
+            <Image
               className="absolute top-16 -left-20"
               src="/images/aboutfolder/about_img-1-1.jpeg"
               alt=""
@@ -35,7 +35,7 @@ function About() {
         </div>
       </div>
       <div className="w-full ">
-        <img
+        <Image
           className="w-full "
           src="/images/aboutfolder/testimonial_bg_img.jpeg"
           alt=""
@@ -62,16 +62,16 @@ function About() {
       </div>
       <div className="flex justify-center space-x-10 mb-32 ">
         <div className=" shadow-black border-2 ">
-          <img className=" " src="/images/aboutfolder/team_13.jpg" alt="" />
+          <Image className=" " src="/images/aboutfolder/team_13.jpg" alt="" />
         </div>
         <div className=" shadow-black border-2 ">
-          <img src="/images/aboutfolder/team_14.jpg" alt="" />
+          <Image src="/images/aboutfolder/team_14.jpg" alt="" />
         </div>
         <div className=" shadow-black border-2">
-          <img src="/images/aboutfolder/team_15.jpg" alt="" />
+          <Image src="/images/aboutfolder/team_15.jpg" alt="" />
         </div>
         <div className=" shadow-black border-2">
-          <img src="/images/aboutfolder/team_img-1-2.jpeg" alt="" />
+          <Image src="/images/aboutfolder/team_img-1-2.jpeg" alt="" />
         </div>
       </div>
     </div>

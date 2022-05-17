@@ -13,7 +13,7 @@ const AboutSection = () => {
           <AboutItem />
         </div>
         <div className="flex-1 px-5 lg:px-0 bg-white">
-          <img src="/images/home-images/about-image.gif" />
+          <Image src="/images/home-images/about-image.gif" />
         </div>
       </div>
     </div>

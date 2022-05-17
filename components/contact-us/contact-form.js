@@ -23,7 +23,7 @@ const ContactForm = ({ setModal }) => {
               </div>
             </div>
             <div className="h-full -mr-[20%]">
-              <img
+              <Image
                 className="flex-1 h-48"
                 src="/images/contact-us-images/location.png"
                 alt=""
